@@ -397,10 +397,10 @@ html, body {
   margin: 0px; }
   @media screen and (max-width: 400px) {
     html, body {
-      max-height: 100%; } }
+      max-height: auto; } }
   @media screen and (max-width: 665px) {
     html, body {
-      max-height: 100%; } }
+      max-height: auto; } }
   @media screen and (max-width: 555px) {
     html, body {
-      max-height: 100%; } }
+      max-height: auto; } }
