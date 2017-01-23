@@ -385,13 +385,13 @@ button {
 
 html, body {
   background: #7c98eb;
-  background: -moz-linear-gradient(-45deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
+  /*background: -moz-linear-gradient(-45deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
   background: -webkit-gradient(left top, right bottom, color-stop(0%, #7c98eb), color-stop(31%, #4a78c2), color-stop(100%, #172d6b));
   background: -webkit-linear-gradient(-45deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
   background: -o-linear-gradient(-45deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
   background: -ms-linear-gradient(-45deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
   background: linear-gradient(135deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7c98eb', endColorstr='#172d6b', GradientType=1 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7c98eb', endColorstr='#172d6b', GradientType=1 );*/
   height: 100%;
   font-family: 'Reenie Beanie', cursive;
   margin: 0px; }
