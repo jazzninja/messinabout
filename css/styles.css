@@ -108,7 +108,7 @@
   background-size: contain;
   margin: 1em auto;
   box-shadow: 5px 5px 50px #000; }
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 366px) {
     .ma-landing-image {
       height: 61vw;
       width: 64.7vw; } }
@@ -142,9 +142,9 @@
   margin: 0em;
   position: fixed;
   top: 0; }
-  @media screen and (max-width: 367px) {
+  @media screen and (max-width: 366px) {
     #ma-nav-bar {
-      height: 195px; } }
+      height: 190px; } }
 
 #nav-wrapper {
   margin-left: 1em; }
@@ -200,7 +200,7 @@
   height: 125px; }
   @media screen and (max-width: 665px) {
     #spacer {
-      height: 195px; } }
+      height: 157px; } }
 
 .podcast-icon-black1 {
   height: 0.75em;
@@ -314,7 +314,7 @@ button {
 .kewpie-container {
   width: 50%;
   background: url("../images/kewpie-01.png") center no-repeat; }
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 366px) {
     .kewpie-container {
       width: 90%; } }
 
@@ -385,17 +385,10 @@ button {
 
 html, body {
   background: #3065bb;
-  /*background: -moz-linear-gradient(-45deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
-  background: -webkit-gradient(left top, right bottom, color-stop(0%, #7c98eb), color-stop(31%, #4a78c2), color-stop(100%, #172d6b));
-  background: -webkit-linear-gradient(-45deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
-  background: -o-linear-gradient(-45deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
-  background: -ms-linear-gradient(-45deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
-  background: linear-gradient(135deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7c98eb', endColorstr='#172d6b', GradientType=1 );*/
   height: 100%;
   font-family: 'Reenie Beanie', cursive;
   margin: 0px; }
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 366px) {
     html, body {
       max-height: auto; } }
   @media screen and (max-width: 665px) {
