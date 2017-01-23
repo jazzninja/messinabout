@@ -384,7 +384,7 @@ button {
   /* move the element down by 5px (it will stay in place because it's attached to the element that also moves up 5px) */ }
 
 html, body {
-  background: #7c98eb;
+  background: #4a78c2;
   /*background: -moz-linear-gradient(-45deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
   background: -webkit-gradient(left top, right bottom, color-stop(0%, #7c98eb), color-stop(31%, #4a78c2), color-stop(100%, #172d6b));
   background: -webkit-linear-gradient(-45deg, #7c98eb 0%, #4a78c2 31%, #172d6b 100%);
