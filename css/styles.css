@@ -144,7 +144,7 @@
   top: 0; }
   @media screen and (max-width: 367px) {
     #ma-nav-bar {
-      height: 185px; } }
+      height: 200px; } }
 
 #nav-wrapper {
   margin-left: 1em; }
@@ -171,7 +171,7 @@
   cursor: pointer; }
 
 .nav-logo-txt {
-  padding: 0.25em 0em 0.25em 0em;
+  padding: 0em 0em 0.25em 0em;
   margin: 0em;
   font-family: 'Bungee Shade', cursive;
   font-size: 20pt;
