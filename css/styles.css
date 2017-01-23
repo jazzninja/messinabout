@@ -144,7 +144,7 @@
   top: 0; }
   @media screen and (max-width: 367px) {
     #ma-nav-bar {
-      height: 200px; } }
+      height: 195px; } }
 
 #nav-wrapper {
   margin-left: 1em; }
@@ -200,7 +200,7 @@
   height: 125px; }
   @media screen and (max-width: 665px) {
     #spacer {
-      height: 157px; } }
+      height: 195px; } }
 
 .podcast-icon-black1 {
   height: 0.75em;
